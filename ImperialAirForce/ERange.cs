@@ -1,7 +1,9 @@
-﻿namespace ImperialAirForce
+﻿using System.Runtime.InteropServices.ComTypes;
+
+namespace ImperialAirForce
 {
-    public class ERange
+    public enum ERange
     {
-        
+        SHORT, STGMEDIUM, LARGE
     }
 }

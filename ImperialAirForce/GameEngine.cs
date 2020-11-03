@@ -1,6 +1,6 @@
 ﻿namespace ImperialAirForce
 {
-    public class Map
+    public class GameEngine
     {
         //David hau rein
     }

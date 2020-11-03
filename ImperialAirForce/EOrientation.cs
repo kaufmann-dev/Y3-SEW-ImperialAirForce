@@ -1,7 +1,7 @@
 ﻿namespace ImperialAirForce
 {
-    public class EOrientation
+    public enum EOrientation
     {
-        
+     NORTH, SOUTH, WEST, EAST   
     }
 }
