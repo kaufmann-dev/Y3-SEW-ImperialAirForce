@@ -1,7 +1,11 @@
-﻿namespace ImperialAirForce
+﻿using System.Collections.Generic;
+using ImperialAirForce;
+
+namespace aernauticaimperialis
 {
-    public class GameEngine
+    public abstract class GameEngine
     {
-        //David hau rein
+        List<Ork> _orkList = new List<Ork>();
+        //List<Imperialis> _imperialisList = new List<Imperialis>();
     }
 }
