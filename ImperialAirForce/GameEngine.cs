@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using ImperialAirForce;
 
-namespace aernauticaimperialis
+namespace ImperialAirForce
 {
     public abstract class GameEngine
     {
         List<Ork> _orkList = new List<Ork>();
-        //List<Imperialis> _imperialisList = new List<Imperialis>();
+        List<Imp> _imperialisList = new List<Imp>();
     }
 }
