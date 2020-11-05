@@ -4,6 +4,6 @@ namespace ImperialAirForce
 {
     public enum ERange
     {
-        SHORT, STGMEDIUM, LARGE
+        SMALL, MEDIUM, LARGE
     }
 }
