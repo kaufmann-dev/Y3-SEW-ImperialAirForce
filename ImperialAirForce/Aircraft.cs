@@ -14,6 +14,12 @@ namespace ImperialAirForce
         private readonly int _maxAltitude;
         private int _costs;
         private readonly List<Weapon> _weapons = new List<Weapon>();
+        private EPlayerType _playerType;
+
+        public EPlayerType PlayerType {
+            get => _playerType;
+            set => _playerType = value;
+        }
 
         public List<Weapon> Weapons => _weapons;
 
@@ -49,7 +55,7 @@ namespace ImperialAirForce
             set => _costs = value;
         }
 
-        public Aircraft(int x, int y, int z, int structure, int maxThrottle, int minSpeed, int maxSpeed, int maxManeuver, int handling, int maxAltitude, int costs) : base(x, y, z) {
+        public Aircraft(int x, int y, int z, int structure, int maxThrottle, int minSpeed, int maxSpeed, int maxManeuver, int handling, int maxAltitude, int costs, EPlayerType playerType) : base(x, y, z) {
             _structure = structure;
             _maxThrottle = maxThrottle;
             _minSpeed = minSpeed;
@@ -59,6 +65,7 @@ namespace ImperialAirForce
             _maxAltitude = maxAltitude;
             _costs = costs;
             _fieldType = EFieldType.AIRCRAFT;
+            _playerType = playerType;
         }
     }
 }

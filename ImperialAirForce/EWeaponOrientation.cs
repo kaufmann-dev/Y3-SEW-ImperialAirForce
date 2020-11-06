@@ -4,6 +4,7 @@ namespace ImperialAirForce
 {
     public enum EWeaponOrientation
     {
-        FRONT, REAR, ALLROUND, RIGHT, LEFT
+        FRONT, REAR, RIGHT, LEFT, ALLROUND, UP
+
     }
 }
