@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serbi\\Desktop\\ImperialAirForce\\ImperialAirForce\\ImperialAirForce.csproj": {}
+    "C:\\Users\\serbi\\Desktop\\Imperial-Air-Force\\ImperialAirForce\\ImperialAirForce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serbi\\Desktop\\ImperialAirForce\\ImperialAirForce\\ImperialAirForce.csproj": {
+    "C:\\Users\\serbi\\Desktop\\Imperial-Air-Force\\ImperialAirForce\\ImperialAirForce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serbi\\Desktop\\ImperialAirForce\\ImperialAirForce\\ImperialAirForce.csproj",
+        "projectUniqueName": "C:\\Users\\serbi\\Desktop\\Imperial-Air-Force\\ImperialAirForce\\ImperialAirForce.csproj",
         "projectName": "ImperialAirForce",
-        "projectPath": "C:\\Users\\serbi\\Desktop\\ImperialAirForce\\ImperialAirForce\\ImperialAirForce.csproj",
+        "projectPath": "C:\\Users\\serbi\\Desktop\\Imperial-Air-Force\\ImperialAirForce\\ImperialAirForce.csproj",
         "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serbi\\Desktop\\ImperialAirForce\\ImperialAirForce\\obj\\",
+        "outputPath": "C:\\Users\\serbi\\Desktop\\Imperial-Air-Force\\ImperialAirForce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"

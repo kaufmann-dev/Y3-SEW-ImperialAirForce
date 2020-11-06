@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\serbi\\Desktop\\ImperialAirForce\\ImperialAirForce\\ImperialAirForce.csproj",
+    "projectUniqueName": "C:\\Users\\serbi\\Desktop\\Imperial-Air-Force\\ImperialAirForce\\ImperialAirForce.csproj",
     "projectName": "ImperialAirForce",
-    "projectPath": "C:\\Users\\serbi\\Desktop\\ImperialAirForce\\ImperialAirForce\\ImperialAirForce.csproj",
-    "outputPath": "C:\\Users\\serbi\\Desktop\\ImperialAirForce\\ImperialAirForce\\obj\\",
+    "projectPath": "C:\\Users\\serbi\\Desktop\\Imperial-Air-Force\\ImperialAirForce\\ImperialAirForce.csproj",
+    "outputPath": "C:\\Users\\serbi\\Desktop\\Imperial-Air-Force\\ImperialAirForce\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
