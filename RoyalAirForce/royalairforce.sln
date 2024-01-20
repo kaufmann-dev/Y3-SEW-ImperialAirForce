@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "royalairforce", "royalairforce\royalairforce.csproj", "{6ACE7D7C-84B8-48B4-8EFB-289AA29FBA00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "royalairforce.unittest", "royalairforce.unittest\royalairforce.unittest.csproj", "{5530EA39-5329-491D-8E8B-CEAF8533FB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACE7D7C-84B8-48B4-8EFB-289AA29FBA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACE7D7C-84B8-48B4-8EFB-289AA29FBA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACE7D7C-84B8-48B4-8EFB-289AA29FBA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACE7D7C-84B8-48B4-8EFB-289AA29FBA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5530EA39-5329-491D-8E8B-CEAF8533FB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5530EA39-5329-491D-8E8B-CEAF8533FB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5530EA39-5329-491D-8E8B-CEAF8533FB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5530EA39-5329-491D-8E8B-CEAF8533FB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ImperialAirForce.Aircraft">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAqAAIAAAAAAHAAAHBQAAAEAADQAAggAAABI=</HashCode>
+      <FileName>Aircraft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.AircraftFactory">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AircraftFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.Command">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.DefaultField">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DefaultField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.DefaultMoveBehaviour" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DefaultMoveBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ImperialAirForce.Dice">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAACAAAAAABAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Dice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.GameEngine">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.Logger">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.Map">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBCAAAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.MovementCost">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAQAASAAAAAIAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>MovementCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.Point">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQAAAAAgAAAAAAAABAAAAgAAAAAAAAAYAE=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.Program">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.Weapon">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAQAAAAAAAAAAQAAAAAAAAABAAAAAAAQAAAA=</HashCode>
+      <FileName>Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImperialAirForce.WeaponFactory">
+    <Position X="14" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WeaponFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ImperialAirForce.MoveBehaviour">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoveBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ImperialAirForce.EFieldType">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EFieldType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImperialAirForce.EOrientation">
+    <Position X="10.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAABAAAQAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>EOrientation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImperialAirForce.EPlayerType">
+    <Position X="7" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EPlayerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImperialAirForce.ERange">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAQAA=</HashCode>
+      <FileName>ERange.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImperialAirForce.EWeaponOrientation">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAwBAAAACAAAAA=</HashCode>
+      <FileName>EWeaponOrientation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
